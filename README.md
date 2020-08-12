@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Lenon Manhães
-## OutSystems Developer and JS lover
+### OutSystems Developer and JS lover
 <!--
 **lenonlmsv/lenonlmsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
