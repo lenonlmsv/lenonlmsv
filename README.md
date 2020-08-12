@@ -3,13 +3,8 @@
 <!--
 **lenonlmsv/lenonlmsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
 - 😄 I'm from Rio de Janeiro, Brazil
 - 🔭 I’m currently working on SYS MANAGER INFORMÁRTICA
 - 🌱 I’m currently learning JavaScript stacks
 - 👯 I’m looking to collaborate on open source and professional projects
-- 📫 How to reach me: lenonlmsv (on Telegram) or https://www.linkedin.com/in/lenonmanhaes/
-
-
-
+- 📫 How to reach me: lenonlmsv (on Telegram) or <a href="https://www.linkedin.com/in/lenonmanhaes/" target="_blank"></a>
