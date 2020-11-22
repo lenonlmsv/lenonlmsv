@@ -5,7 +5,7 @@
 **lenonlmsv/lenonlmsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I’m currently working on SYS MANAGER INFORMÁRTICA
+🔭 I’m currently working on @[SYS MANAGER](https://www.linkedin.com/company/sys-manager-inform%C3%A1tica/)
 
 🌱 I'm from Rio de Janeiro, Brazil
 
